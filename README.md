@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 - 🧰 Things I can do: HTML, CSS, Boostrap, JavaScript, Node.js, MongoDB, MySQL
 - 🌱 I’m currently learning Python
 - 📧 How to reach me: I'm rather old fashioned, email please
-- 💚 Some things I love: reading, cooking & baking, animals, gardening, yoga
-- 🧩 Fun fact: I'm a fan of jigsaw puzzles
+- 💚 Some things I love: reading, cooking & baking, animals,jigsaw puzzles gardening, yoga
 
 
 
