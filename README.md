@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🧰 Things I can do: HTML, CSS, Boostrap, JavaScript, Node.js, MongoDB, MySQL
 - 🌱 I’m currently learning Python
 - 📧 How to reach me: [Email](aldanacasal@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aldana-daniela-casal/)
-- 💚 Some things I love: reading, cooking & baking, animals,jigsaw puzzles gardening, yoga
+- 💚 Some things I love: reading, cooking & baking, animals, jigsaw puzzles, gardening, yoga
 
 
 
