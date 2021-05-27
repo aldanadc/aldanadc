@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 💻 I’m currently working on my portfolio + the last two projects from my Full Stack course
 - 🧰 Things I can do: HTML, CSS, Boostrap, JavaScript, Node.js, MySQL, MongoDB
 - 🌱 I’m currently learning Python
-- 📧 How to reach me: [Email](aldanacasal@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aldana-daniela-casal/)
+- 📧 How to reach me: [Email](mailto:aldanacasal@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aldana-daniela-casal/)
 - 💚 Some things I love: reading, cooking & baking, jigsaw puzzles, animals, gardening, yoga
 
 
