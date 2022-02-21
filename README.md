@@ -5,7 +5,7 @@
 
 
 
-I'm a newbie Full Stack Developer looking for a job opportunity
+I'm a newbie Full Stack Developer making her way through her first coding job :)
 
 <!--
 **aldanadc/aldanadc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 💻 I’m currently working on: short front end projects
 - 🧰 Things I can do: HTML, CSS, Boostrap, JavaScript, Node.js, MySQL, MongoDB
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Angular
 - 📧 How to reach me: [Email](mailto:aldanacasal@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aldana-daniela-casal/)
 - 💚 Some things I love: reading, cooking & baking, jigsaw puzzles, animals, gardening, yoga
 - ✨ Fun fact: I (mostly unintentionally) overanalyze songs' lyrics and radio advertisements
