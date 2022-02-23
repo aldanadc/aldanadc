@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ---
 
-- 💻 I’m currently working on: short front end projects
+- 💻 I’m currently working on: short personal front end projects + my new job
 - 🧰 Things I can do: HTML, CSS, Boostrap, JavaScript, Node.js, MySQL, MongoDB
 - 🌱 I’m currently learning Angular
 - 📧 How to reach me: [Email](mailto:aldanacasal@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aldana-daniela-casal/)
