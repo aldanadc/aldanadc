@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 💻 I’m currently working on: short personal front end projects + my new job
 - 🧰 Things I can do: HTML, CSS, Boostrap, JavaScript, Python, FastAPI, Node.js, MySQL, MongoDB
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python + TDD
 - 📧 How to reach me: [Email](mailto:aldanacasal@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aldana-daniela-casal/)
 - 💚 Some things I love: reading, cooking & baking, jigsaw puzzles, animals, gardening, yoga
 - ✨ Fun fact: I (mostly unintentionally) overanalyze songs' lyrics and radio advertisements
